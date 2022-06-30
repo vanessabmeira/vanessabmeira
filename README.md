@@ -35,3 +35,5 @@ Hello World!! Eu sou a Vanessa Meira 👋
      <a href = "mailto:vanessabmeira@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+
+ ![Snake animation](https://github.com/vanessabmeira/vanessabmeira/blob/output/github-contribution-grid-snake.svg)
