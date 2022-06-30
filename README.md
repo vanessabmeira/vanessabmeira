@@ -1,11 +1,11 @@
 <b>Hello World!! Eu sou a Vanessa Beatriz Meira Lobato 👋 </b>
 
 
-- 🌱 Atualmente estou <b>entendendo, aprendendo e desenvolvendo</> minhas habilidade no front-end e suas linguagens.
+- 🌱 Atualmente estou <b>entendendo, aprendendo e desenvolvendo</b> minhas habilidade no front-end e suas linguagens.
 - 👯 Estou em busca de pessoas que assim como eu gostam de compartilhar suas habilidades e conhecimentos. 
-- 🤔 Quero muito entrar na area de front-end, então estou em busca de entrar em algum bootcamp que me ajude a conhecer ainda mais esta area. 
-- 📫 Para conversar comigo, logo abaixo coloquei algumas rede sociais para que possamos trocar ideia, pode me chamar !!
-- ⚡ Curiosidade sobre mim: Sou formada em nutrição, trabalhei por alguns meses na area mas me vi apaixonada pelas linhas de códigos 🥰
+- 🤔 Quero muito entrar na area de <i>front-end</i>, então estou em busca de entrar em algum bootcamp que me ajude a conhecer ainda mais esta area. 
+- 📫 Para conversar comigo, logo abaixo coloquei algumas rede sociais para que possamos trocar ideia, <b>pode me chamar </b>!!
+- ⚡ Curiosidade sobre mim: Sou formada em <i>nutrição</i>, trabalhei por alguns meses na area mas me vi apaixonada pelas linhas de códigos 🥰
 
 ##
 
